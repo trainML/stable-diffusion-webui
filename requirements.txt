@@ -33,3 +33,4 @@ safetensors
 psutil; sys_platform == 'darwin'
 clip
 gdown
+open_clip_torch==2.8.0
